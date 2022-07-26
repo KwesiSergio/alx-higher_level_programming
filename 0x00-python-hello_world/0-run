@@ -1,1 +1,2 @@
-0-runef
+#!/bin/bash
+python3 $PYFILE
